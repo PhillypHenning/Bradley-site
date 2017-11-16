@@ -8,8 +8,6 @@
 
 ## Install
     Begin by cloneing this repository either by https or ssh
-
-    This project encourages the use of virtualenv and provides a pip requirements.txt for environment matching convienence. 
     
     You can read up and install virtaulenv by clicking [here](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
@@ -20,7 +18,7 @@
     `source Brad-Proj/bin/activate`
 
     Install the project dependencies
-    `pip install -r requirement.txt`
+    `pip install Django`
 
 ## Working
 
