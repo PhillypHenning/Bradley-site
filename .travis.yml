@@ -1,8 +1,6 @@
-language: python
-
-sudo:enabled
-
-before_install:
-  - sudo pip install -e django
-  
-  
+ language: python
+  python:
+    - 3.6
+  script:
+    - pytest
+    - django
