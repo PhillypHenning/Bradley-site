@@ -4,4 +4,4 @@
   install:
     - pip install -e django
   script:
-    - pytest
+    - python -m unittest
